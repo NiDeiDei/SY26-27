@@ -1,1 +1,1 @@
-Collection of files for my python class. 
+Collection of files for my Python class. 
